@@ -194,5 +194,7 @@ TOKEN_SECRET=your_secret
 TMDB_BASE_URL=https://api.themoviedb.org/3/
 TMDB_KEY=your_tmdb_api_key
 ```
-Made with ❤️ by **Sudhanshu** • [Email](mailto:sudhanshuuu01@gmail.com)
+**Sudhanshu** • [Email](mailto:sudhanshuuu01@gmail.com)
+
+
 
