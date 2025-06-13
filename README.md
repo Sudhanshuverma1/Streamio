@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://streamio.vercel.app" target="_blank">Live Demo</a> | 
-  <a href="https://https://streamio-tan.vercel.app/" target="_blank">API</a> | 
+  <a href="https://streamio-tan.vercel.app/" target="_blank">API</a> | 
   <a href="#-features">Features</a> | 
   <a href="#-tech-stack">Tech Stack</a> | 
   <a href="#-getting-started">🚀 Getting Started</a>
