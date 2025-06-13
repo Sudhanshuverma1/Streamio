@@ -1,37 +1,64 @@
-# Steamio
-    Fullstack Responsive Movie Website 2022
+<h1 align="center">🎥 StreamIo</h1>
 
-# Video tutorial
+<p align="center">
+  A full-stack movie and TV show discovery platform powered by <a href="https://www.themoviedb.org/">TMDB API</a>, built with <strong>React</strong>, <strong>Redux</strong>, <strong>Express</strong>, <strong>MongoDB</strong>, and <strong>Tailwind CSS</strong>.
+</p>
 
-[Part 1](https://youtu.be/j-Sn1b4OlLA)<br>
+<p align="center">
+  <a href="https://streamio.vercel.app" target="_blank">Live Demo</a> | 
+  <a href="https://streamio-api.onrender.com" target="_blank">API</a> | 
+  <a href="#-features">⚙️ Features</a> | 
+  <a href="#-tech-stack"> Tech Stack</a> | 
+  <a href="#-getting-started">🚀 Getting Started</a>
+</p>
 
-[Part 2](https://youtu.be/Q_uLi4f27Lc)<br>
+---
 
-# Resource
+## Overview
 
-[Create React App](https://create-react-app.dev/)<br>
-[Material UI](https://create-react-app.dev/)<br>
-[Mongoose](https://mongoosejs.com/)<br>
-[ExpressJS](https://expressjs.com/)<br>
-[Express Validator](https://express-validator.github.io/docs/)<br>
-[React Router](https://reactrouter.com/)<br>
-[Formik](https://formik.org/)<br>
-[Yup](https://github.com/jquense/yup/)<br>
-[Axios](https://axios-http.com/)<br>
-[ThemovieDB](https://www.themoviedb.org/)<br>
-[Swiper](https://swiperjs.com/)<br>
-[JWT](https://github.com/auth0/node-jsonwebtoken)<br>
+**StreamIo** lets users browse popular movies and TV shows, view detailed information, add media to favorites, write reviews, and securely manage their profiles. It's built with a clean architecture and follows modern full-stack development standards.
 
-# Preview
+---
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322539-8fcd83e1-8424-4922-980c-91d20cdf761c.png "Fullstack Responsive Movie Website 2022")
+## Screenshots
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322676-cbf56b14-8e23-4622-bbd9-76e6cbe619a8.png "Fullstack Responsive Movie Website 2022")
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/97cc281c-247d-4b43-9378-2b4c1bffc38b" alt="StreamIo Preview" />
+</p>
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322838-09e075c4-7f47-4252-83e8-afdd633e1968.png "Fullstack Responsive Movie Website 2022")
+---
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322933-1b5cf238-0ec7-4adf-89eb-6b4fb3dcb996.png "Fullstack Responsive Movie Website 2022")
+## Features
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323098-dfa74553-78a8-4809-a7a7-cd569c3b3f6c.png "Fullstack Responsive Movie Website 2022")
+- 🔐 **Authentication** – JWT-based secure login/signup  
+- 📺 **Browse Media** – Discover trending movies & shows via TMDB  
+- 🔍 **Search Functionality** – Search across all media types  
+- 📝 **Reviews** – Post, read & manage reviews  
+- ⭐ **Favorites** – Add/remove media to a personalized list  
+- 🌈 **Responsive Design** – Fully responsive across devices  
+- 🎨 **Modern UI** – Built with Tailwind CSS and dynamic interactions  
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323021-0b5657d2-8913-4b81-8c1b-d4ceef065ee6.png "Fullstack Responsive Movie Website 2022")
+---
+
+## Tech Stack
+
+### Frontend
+- **React.js** (w/ Hooks)
+- **Redux Toolkit**
+- **React Router DOM**
+- **Tailwind CSS**
+- **Axios**
+
+### Backend
+- **Node.js** + **Express**
+- **MongoDB** + **Mongoose**
+- **JWT Authentication**
+- **dotenv**, **cookie-parser**, **cors**
+
+### External APIs
+- [TMDB API](https://www.themoviedb.org/documentation/api)
+
+---
+
+## 🗂 Project Structure
+
