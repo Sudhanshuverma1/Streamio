@@ -29,4 +29,9 @@ mongoose.connect(process.env.MONGODB_URL).then(() => {
   process.exit(1);
 });
 
+app.get("/", (req, res) => {
+  res.send("API backend is running.");
+});
+
+
 //test
