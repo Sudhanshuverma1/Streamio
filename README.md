@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://streamio.vercel.app" target="_blank">Live Demo</a> | 
-  <a href="https://streamio-tan.vercel.app/" target="_blank">API</a> | 
+  <a href="https://streamio-tan.vercel.app/" target="_blank">Live Demo</a> | 
   <a href="#-features">Features</a> | 
   <a href="#-tech-stack">Tech Stack</a> | 
   <a href="#-getting-started">🚀 Getting Started</a>
@@ -184,4 +183,13 @@ server/                          # Backend Node.js server
 └── README.md
 ```
 
+## ⚙️ Environment Variables
 
+Create a `.env` file in the `server/` directory:
+
+```env
+MONGODB_URL=your_mongodb_connection_string
+PORT=5000
+TOKEN_SECRET=your_secret
+TMDB_BASE_URL=https://api.themoviedb.org/3/
+TMDB_KEY=your_tmdb_api_key
