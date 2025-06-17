@@ -11,23 +11,23 @@
   <a href="#-getting-started">🚀 Getting Started</a>
 </p>
 
----
 
-## Overview
+
+<h2>Overview</h2>
 
 **StreamIo** lets users browse popular movies and TV shows, view detailed information, add media to favorites, write reviews, and securely manage their profiles. It's built with a clean architecture and follows modern full-stack development standards.
 
----
 
-## Screenshots
+
+<h2>Screenshots</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/97cc281c-247d-4b43-9378-2b4c1bffc38b" alt="StreamIo Preview" />
 </p>
 
----
 
-##Features
+
+<h2>Features</h2>
 
 - 🔐 **Authentication** – JWT-based secure login/signup  
 - 📺 **Browse Media** – Discover trending movies & shows via TMDB  
@@ -37,9 +37,8 @@
 - 🌈 **Responsive Design** – Fully responsive across devices  
 - 🎨 **Modern UI** – Built with Tailwind CSS and dynamic interactions  
 
----
 
-##Tech Stack
+<h2>Tech Stack</h2>
 
 ### Frontend
 - **React.js** (w/ Hooks)
@@ -57,9 +56,8 @@
 ### External APIs
 - [TMDB API](https://www.themoviedb.org/documentation/api)
 
----
 
-## 🗂 Project Structure
+## Project Structure
 ```
 client/                          # Frontend React application
 ├── public/                      # Static public assets
